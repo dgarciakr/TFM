@@ -22,3 +22,5 @@ Una vez instalados los entornos no hay más que cargarlos al modelo con: 'gym_hp
 - Numpy = 1.19.5
 - Setuptools = 45.2.0
 - Torch = 1.10.1
+
+Daniel García Martín (dgarcia@unex.es)
