@@ -16,3 +16,5 @@ El algoritmo guarda la información de cada ejecución en una carpeta exclusiva 
 - Numpy = 1.19.5
 - Ray = 1.10.0
 - Torch = 1.10.1
+
+Daniel García Martín (dgarcia@unex.es)
